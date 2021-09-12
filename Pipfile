@@ -15,6 +15,7 @@ Django = "==3.0.7"
 django-environ = "*"
 boto3 = "*"
 django-storages = "*"
+django-allauth = "*"
 
 [requires]
 python_version = "3.9"
